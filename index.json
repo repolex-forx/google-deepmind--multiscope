@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "multiscope",
+  "versions": [
+    {
+      "commit": "ea9bc9025cfb1531ebca9d11f53afe8e3b0b1028",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:19:29.216070+00:00"
+    }
+  ]
+}
